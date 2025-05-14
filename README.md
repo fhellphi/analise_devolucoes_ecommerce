@@ -2,7 +2,7 @@
 
 ## 🧰 Ferramentas utilizadas
 - Sql
-- PowerBI
+- Sql Reports
 
 ## 📁 Estrutura do projeto
 - 'data/': dados para analise
